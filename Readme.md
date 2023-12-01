@@ -9,11 +9,9 @@
 - Once both build is installed the click on button to see colour changes on screen
 
 # Assets
-|App Management | Second Header|
---|--
-![Screenshot_20231201_191749.png](screenshot%2FScreenshot_20231201_191749.png) | ![output.gif](screenshot%2Foutput.gif)
-
-
+| App Management                                                                 | Second Header                          |
+|--------------------------------------------------------------------------------|----------------------------------------|
+| ![Screenshot_20231201_191749.png](screenshot%2FScreenshot_20231201_191749.png) | ![output.gif](screenshot%2Foutput.gif) |
 
 # Mp4 to gif convert command
 ffmpeg \
