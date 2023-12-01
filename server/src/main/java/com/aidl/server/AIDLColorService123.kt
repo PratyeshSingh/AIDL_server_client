@@ -10,7 +10,7 @@ import java.util.Random
 private const val TAG ="SERVER-AIDLColorService"
 
 // TODO : STEP- 4
-class AIDLColorService : Service() {
+class AIDLColorService123 : Service() {
 
     override fun onBind(intent: Intent): IBinder {
         return binder
